@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|c:\\users\\kjh11\\onedrive\\\uBB38\uC11C\\github\\revit_addin_project\\personal_addin_project\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T12:47:31.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
