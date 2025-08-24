@@ -3,8 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|c:\\users\\kjh11\\onedrive\\\uBB38\uC11C\\github\\revit_addin_project\\personal_addin_project\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Personal_AddIn_Project||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\manifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|solutionrelative:manifest.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\noise_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|solutionrelative:noise_analysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430D8BF0-3260-4055-B7A5-849B9EAC2982}|Personal_AddIn_Project.csproj|c:\\users\\kjh11\\onedrive\\\uBB38\uC11C\\github\\revit_addin_project\\personal_addin_project\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +29,37 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Class1.cs",
-              "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Class1.cs",
-              "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Title": "Personal_AddIn_Project",
+              "DocumentMoniker": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Personal_AddIn_Project.csproj",
+              "RelativeDocumentMoniker": "Personal_AddIn_Project.csproj",
+              "ToolTip": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Personal_AddIn_Project.csproj",
+              "RelativeToolTip": "Personal_AddIn_Project.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-23T16:22:17.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manifest.addin",
+              "DocumentMoniker": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\manifest.addin",
+              "RelativeDocumentMoniker": "manifest.addin",
+              "ToolTip": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\manifest.addin",
+              "RelativeToolTip": "manifest.addin",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2025-08-23T13:28:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Noise_Analysis.cs",
+              "DocumentMoniker": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Noise_Analysis.cs",
+              "RelativeDocumentMoniker": "Noise_Analysis.cs",
+              "ToolTip": "C:\\Users\\kjh11\\OneDrive\\\uBB38\uC11C\\GitHub\\Revit_Addin_Project\\Personal_AddIn_Project\\Noise_Analysis.cs",
+              "RelativeToolTip": "Noise_Analysis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T12:47:31.731Z",
               "EditorCaption": ""

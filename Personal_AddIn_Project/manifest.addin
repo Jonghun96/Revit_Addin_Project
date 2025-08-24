@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>DemoApps</Name>
+		<Assembly>Personal_AddIn_Project.dll</Assembly>
+		<AddInId>31A55C55-1721-4633-8398-F597CE2623CD</AddInId>
+		<FullClassName>Personal_AddIn_Project.Noise_Analysis</FullClassName>
+		<Text>Demo</Text>
+		<Description>Trying things out</Description>
+		<VendorId>Mazri A.</VendorId>
+		<VendorDescription>Mazri A. demo's</VendorDescription>
+		<VisibilityMode>AlwaysVisible</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
